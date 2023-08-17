@@ -372,9 +372,19 @@ h3{
 
 @media(max-width:600px)
 {
+    a
+{
+    font-size: 12px;
+    font-weight: bold;
+
+}
     .text1
     {
-        font-size: 2em;
+        font-size: 1.9em;
+    }
+    .text2
+    {
+        font-size: 0.8em;
     }
     .btn
     {
